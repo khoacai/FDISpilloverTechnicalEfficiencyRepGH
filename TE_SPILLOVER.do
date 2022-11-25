@@ -1,3 +1,11 @@
+/*###############
+#This is the main Stata do file for insights into the research questions with 
+#technical efficiency analyses and various methods to the regression models.
+#
+#Copyright @2020 by Khoa Cai. All rights reserved.
+###############
+*/
+
 clear all
 clear matrix
 clear mata
