@@ -1,14 +1,10 @@
-#Here is the main code written in R to  data 
-#for the final meaningful and usable sample.
-
 ###############
-#1.
 #This is the main R file for gathering, merging, filtering, and compiling data 
 #from various sources, mainly from GSSO.
 #This file measures and calculates the variables for regression models and 
 #further statistical analyses in Stata files. 
 #
-#Copyright @2019 by Khoa Cai. All rights reserved.
+#Copyright @2020 by Khoa Cai. All rights reserved.
 ###############
 
 
